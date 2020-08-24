@@ -26,7 +26,7 @@ const clusterLayer = L.featureGroup()
 
 // a leaflet map consumes parameters, I'd say they are quite self-explanatory
 const mapParams = {
-  center: [40.7569, -73.9837],
+  center: [34.0201613, -118.6919239],
   zoomControl: false,
   maxBounds: L.latLngBounds(L.latLng(-90, -180), L.latLng(90, 180)),
   zoom: 13,
